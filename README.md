@@ -1,70 +1,77 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+soy+Anderson+%F0%9F%91%8B;Ing.+Sistemas+%7C+ML+%7C+Backend;Chiclayo%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)
+<div align="center">
 
----
-### 👋 Hey, soy Anderson
+# Anderson Baca Chuquimanco
 
-Estudiante de Ingeniería de Sistemas y Computación en la **USAT** · Chiclayo, Perú 🇵🇪  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&height=40&lines=Ingenier%C3%ADa+de+Sistemas+y+Computaci%C3%B3n;Machine+Learning+%C2%B7+Visi%C3%B3n+computacional;Backend+%C2%B7+APIs+%C2%B7+MLOps" alt="Ingeniería de Sistemas · Machine Learning · Backend" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-baca-chuquimanco/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ander.jbc115@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BanderJ)
+Estudiante de Ingeniería de Sistemas y Computación en la **USAT** · Chiclayo, Perú
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-baca-chuquimanco/)
+[![Email](https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:ander.jbc115@gmail.com)
 
-### 🚀 Sobre mí
-
-- 🎓 9no ciclo · Ingeniería de Sistemas y Computación — **USAT**, Chiclayo
-- 🌱 Siempre aprendiendo: MLOps, visión computacional, arquitecturas backend
+</div>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Sobre mí
 
-![Anderson's GitHub Stats]
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanderJ&layout=compact&langs_count=8&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BanderJ&theme=tokyonight)
-
-
-### 🛠️ Stack tecnológico
-
-##### Lenguajes
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-
-##### Frameworks & herramientas
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-222222?style=flat&logo=springboot&logoColor=6DB33F)
-![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=009688)
-![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat&logo=pytorch&logoColor=EE4C2C)
-![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino&logoColor=00979D)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=336791)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
-![Power BI](https://img.shields.io/badge/-Power%20BI-222222?style=flat&logo=powerbi&logoColor=F2C811)
+- 🎓 9.º ciclo de Ingeniería de Sistemas y Computación — **USAT**
+- ☕ Tesis: **CoffeeRen**, visión artificial para clasificar granos de café verde
+- 🚀 Co-fundador de **INNOTTI S.A.C.**, donde desarrollamos **TURIFAST**
+- 🌱 Aprendiendo: MLOps, visión computacional y arquitecturas backend
 
 ---
 
-### 📈 Actividad
+### Stack
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BanderJ&theme=tokyo-night&area=true)
+| | |
+|:--|:--|
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=F89820) ![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6) ![C++](https://img.shields.io/badge/C++-24292F?style=flat-square&logo=cplusplus&logoColor=659AD2) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292F?style=flat-square&logo=springboot&logoColor=6DB33F) ![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=009688) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=4169E1) |
+| **ML / Datos** | ![PyTorch](https://img.shields.io/badge/PyTorch-24292F?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![scikit-learn](https://img.shields.io/badge/scikit--learn-24292F?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![Power BI](https://img.shields.io/badge/Power_BI-24292F?style=flat-square&logo=powerbi&logoColor=F2C811) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED) ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624) ![Arduino](https://img.shields.io/badge/Arduino-24292F?style=flat-square&logo=arduino&logoColor=00979D) |
 
 ---
 
-### 🔭 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
-|----------|-------------|-------|
+|:--|:--|:--|
 | **CoffeeRen** | Visión artificial para clasificar granos de café verde (tesis) | YOLO · FastAPI · Arduino · Python |
 | **TURIFAST** | App móvil de turismo inteligente para Lambayeque | React Native · Spring Boot |
-| **Anemia Dashboard** | Dashboard epidemiológico con Open Data Peru | Power BI · Python |
-| **Modelo Reintegración Social** | Regresión logística binaria con CRISP-ML | Python · Scikit-learn |
+| **Anemia Dashboard** | Dashboard epidemiológico con datos abiertos del Perú | Power BI · Python |
+| **Modelo Reintegración Social** | Regresión logística binaria con CRISP-ML | Python · scikit-learn |
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+### Estadísticas
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img src="./profile/stats-light.svg" alt="Estadísticas de GitHub" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <img src="./profile/top-langs-light.svg" alt="Lenguajes más usados" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+  <img src="./profile/streak-light.svg" alt="Racha de contribuciones" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BanderJ&bg_color=0D1117&color=8B949E&line=2F81F7&point=E6EDF3&area=true&area_color=2F81F7&hide_border=true&custom_title=Actividad%20reciente" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BanderJ&bg_color=FFFFFF&color=57606A&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfico de actividad" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+<sub>Hecho con ☕ desde Chiclayo, Perú</sub>
+</div>
