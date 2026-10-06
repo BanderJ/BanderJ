@@ -71,7 +71,3 @@ Estudiante de Ingeniería de Sistemas y Computación en la **USAT** · Chiclayo,
 </div>
 
 ---
-
-<div align="center">
-<sub>Hecho con ☕ desde Chiclayo, Perú</sub>
-</div>
