@@ -45,29 +45,7 @@ Estudiante de Ingeniería de Sistemas y Computación en la **USAT** · Chiclayo,
 
 ---
 
-### Estadísticas
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-  <img src="./profile/stats-light.svg" alt="Estadísticas de GitHub" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-  <img src="./profile/top-langs-light.svg" alt="Lenguajes más usados" height="165" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
-  <img src="./profile/streak-light.svg" alt="Racha de contribuciones" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BanderJ&bg_color=0D1117&color=8B949E&line=2F81F7&point=E6EDF3&area=true&area_color=2F81F7&hide_border=true&custom_title=Actividad%20reciente" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BanderJ&bg_color=FFFFFF&color=57606A&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfico de actividad" width="100%" />
-</picture>
-
-</div>
+Estadísticas
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" /> <img src="./profile/stats-light.svg" alt="Estadísticas de GitHub" height="165" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" /> <img src="./profile/top-langs-light.svg" alt="Lenguajes más usados" height="165" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" /> <img src="./profile/streak-light.svg" alt="Racha de contribuciones" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" /> <img src="./profile/snake-light.svg" alt="Contribuciones del último año" width="100%" /> </picture> </p>
 
 ---
