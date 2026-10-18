@@ -17,7 +17,6 @@ Estudiante de Ingeniería de Sistemas y Computación en la **USAT** · Chiclayo,
 
 - 🎓 9.º ciclo de Ingeniería de Sistemas y Computación — **USAT**
 - ☕ Tesis: **CoffeeRen**, visión artificial para clasificar granos de café verde
-- 🚀 Co-fundador de **INNOTTI S.A.C.**, donde desarrollamos **TURIFAST**
 - 🌱 Aprendiendo: MLOps, visión computacional y arquitecturas backend
 
 ---
